@@ -77,6 +77,7 @@ def create_item(index):
 	temp['description'] = "Desciption_cont."
 	if(randrange(2)):
 		temp['type'] = "post"
+		temp['title'] = "Post " + str(index)
 		temp['metadata'] = get_post_meta()
 		if(randrange(2)):
 			temp['is_video'] = True
@@ -85,6 +86,7 @@ def create_item(index):
 			temp['is_video'] = False
 	else:
 		temp['type'] = "lesson"
+		temp['title'] = "Lesson " + str(index)
 		temp['video_url'] = "https://youtu.be/dQw4w9WgXcQ"
 		temp['categories'] = []
 		for x in range(randrange(3) + 1):
