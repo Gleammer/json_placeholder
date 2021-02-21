@@ -91,7 +91,7 @@ def create_item(index):
 			temp['categories'].append(get_lesson_categories(x))
 		temp['extern'] = "Extern_cont."			
 		temp['clips'] = []
-		for x in range(randrange(4)):
+		for x in range(randrange(3)+1):
 			temp['clips'].append(get_lesson_clip(x))
 	return temp
 
