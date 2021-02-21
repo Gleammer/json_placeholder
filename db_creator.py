@@ -99,7 +99,7 @@ def create_item(index):
 data = {}
 data['items'] = []
 
-for x in range(20):
+for x in range(18):
 	data['items'].append(create_item(x))
 
 ''' Useful for testing the outcome of db_cretor.py '''
