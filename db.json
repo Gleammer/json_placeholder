@@ -1,1 +1,106 @@
-{"items":[{"id":0,"thumbnail":"https://picsum.photos/id/0/300/200","description":"Desciption_cont.","type":"post","title":"Post 0","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":true,"video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"id":1,"thumbnail":"https://picsum.photos/id/1/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 1","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"clip_id":1,"clip_title":"Clip 1","clip_thumbnail":"https://picsum.photos/id/1/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":2,"thumbnail":"https://picsum.photos/id/2/300/200","description":"Desciption_cont.","type":"post","title":"Post 2","metadata":{"author_id":1,"author_name":"Autor 1","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":3,"thumbnail":"https://picsum.photos/id/3/300/200","description":"Desciption_cont.","type":"post","title":"Post 3","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":4,"thumbnail":"https://picsum.photos/id/4/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 4","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":5,"thumbnail":"https://picsum.photos/id/5/300/200","description":"Desciption_cont.","type":"post","title":"Post 5","metadata":{"author_id":3,"author_name":"Autor 3","author_avatar":"https://picsum.photos/50","lyceum_id":2,"lyceum_name":"Liceul 2","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":6,"thumbnail":"https://picsum.photos/id/6/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 6","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":7,"thumbnail":"https://picsum.photos/id/7/300/200","description":"Desciption_cont.","type":"post","title":"Post 7","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":8,"thumbnail":"https://picsum.photos/id/8/300/200","description":"Desciption_cont.","type":"post","title":"Post 8","metadata":{"author_id":4,"author_name":"Autor 4","author_avatar":"https://picsum.photos/50","lyceum_id":2,"lyceum_name":"Liceul 2","date":"2020-01-08T18:52:50.637635"},"is_video":true,"video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"id":9,"thumbnail":"https://picsum.photos/id/9/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 9","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"clip_id":1,"clip_title":"Clip 1","clip_thumbnail":"https://picsum.photos/id/1/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"clip_id":2,"clip_title":"Clip 2","clip_thumbnail":"https://picsum.photos/id/2/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":10,"thumbnail":"https://picsum.photos/id/10/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 10","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":11,"thumbnail":"https://picsum.photos/id/11/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 11","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"clip_id":1,"clip_title":"Clip 1","clip_thumbnail":"https://picsum.photos/id/1/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":12,"thumbnail":"https://picsum.photos/id/12/300/200","description":"Desciption_cont.","type":"post","title":"Post 12","metadata":{"author_id":3,"author_name":"Autor 3","author_avatar":"https://picsum.photos/50","lyceum_id":2,"lyceum_name":"Liceul 2","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":13,"thumbnail":"https://picsum.photos/id/13/300/200","description":"Desciption_cont.","type":"lesson","title":"Lesson 13","video_url":"https://www.youtube.com/embed/FpFztrJbksg","categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"}],"extern":"Extern_cont.","clips":[{"clip_id":0,"clip_title":"Clip 0","clip_thumbnail":"https://picsum.photos/id/0/300/200","clip_description":"Desciption_cont.","clip_categories":[{"categories_id":1,"categories_title":"Categoria 1"},{"categories_id":2,"categories_title":"Categoria 2"},{"categories_id":3,"categories_title":"Categoria 3"}],"clip_video_url":"https://www.youtube.com/embed/FpFztrJbksg"}]},{"id":14,"thumbnail":"https://picsum.photos/id/14/300/200","description":"Desciption_cont.","type":"post","title":"Post 14","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":15,"thumbnail":"https://picsum.photos/id/15/300/200","description":"Desciption_cont.","type":"post","title":"Post 15","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":true,"video_url":"https://www.youtube.com/embed/FpFztrJbksg"},{"id":16,"thumbnail":"https://picsum.photos/id/16/300/200","description":"Desciption_cont.","type":"post","title":"Post 16","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":false},{"id":17,"thumbnail":"https://picsum.photos/id/17/300/200","description":"Desciption_cont.","type":"post","title":"Post 17","metadata":{"author_id":2,"author_name":"Autor 2","author_avatar":"https://picsum.photos/50","lyceum_id":1,"lyceum_name":"Liceul 1","date":"2020-01-08T18:52:50.637635"},"is_video":false}]}
+{
+    "items":[
+        {
+            "id": 0,
+            "thumbnail": "https://picsum.photos/id/0/300/200",
+            "description": "Călătoria noastră începe chiar în bucătărie, unde Sorina Savii (percuționistă la Opera Națională Română Timișoara) devine un Masterchef al sunetelor, transformând instrumentele de gătit în instrumente de percuție: bolul din inox devine o tobă mică, răzătoarea pentru legume devine un instrument exotic denumit Guiro, iar conserva se transformă într-un Shaker zgomotos.",
+            "type": "post",
+            "title": "Episodul #1 - O primă întâlnire cu percuția:",
+            "metadata": {
+              "author_id": 0,
+              "author_name": "Autor",
+              "author_avatar": "https://picsum.photos/50",
+              "lyceum_id": 1,
+              "lyceum_name": "Liceul",
+              "date": "2020-01-08T18:52:50.637635"
+          },
+          "is_video": true,
+          "video_url": "https://www.youtube.com/embed/gomAKophc4A"
+      },
+      {
+            "id": 1,
+            "thumbnail": "https://picsum.photos/id/0/300/200",
+            "description": "În cel de-al doilea episod #PAVILION pornim la drum cu ajutorul unui covor muzical fermecat! Sorina Savii (percuționistă la Opera Națională Română Timișoara) este ghidul care ne îndrumă pașii spre continente ce ascund sunete stranii sau de-a dreptul liniștitoare, încurajându-ne să descoperim povestea din spatele unor uimitoarea instrumente de percuție. Altfel spus, cartografiem teritorii precum Africa, Asia, America de Sud și Orientul Mijlociu cu ajutorul sunetelor!",
+            "type": "post",
+            "title": "Episodul #2 - Călătorie în lumea percuției:",
+            "metadata": {
+              "author_id": 0,
+              "author_name": "Autor",
+              "author_avatar": "https://picsum.photos/50",
+              "lyceum_id": 1,
+              "lyceum_name": "Liceul",
+              "date": "2020-01-08T18:52:50.637635"
+          },
+          "is_video": true,
+          "video_url": "https://www.youtube.com/embed/okxDqKJ3iLo"
+      },
+      {
+            "id": 2,
+            "thumbnail": "https://picsum.photos/id/0/300/200",
+            "description": "o busolă fermecată: În cadrul acestui episod, Vlad Popescu (violinist al „Furiant Quartet” și Director Artistic Eufonia Festival) transformă propria vioară într-o busolă magică pentru a ne ghida prin lumea unora dintre cei mai importanți compozitori ai lumii. Ne începem periplul chiar dintr-un mare palat situat în locul natal al compozitorului Antonio Vivaldi, Veneția! Alături de Andreea Spînu (pianistă la Opera Comică pentru Copii), Vlad va da „voce” unei lucrări din seria anotimpurilor compuse de către A. Vivaldi, pentru ca mai apoi sunetul muzicii să ne aducă acasă, în România, pe acorduri vesele… cântate la firul ierbii!",
+            "type": "post",
+            "title": "Episod #3 - Pavilion | Vioara și pianul:",
+            "metadata": {
+              "author_id": 0,
+              "author_name": "Autor",
+              "author_avatar": "https://picsum.photos/50",
+              "lyceum_id": 1,
+              "lyceum_name": "Liceul",
+              "date": "2020-01-08T18:52:50.637635"
+          },
+          "is_video": true,
+          "video_url": "https://www.youtube.com/embed/mxtJ1szP8kA"
+      },
+      {
+            "id": 3,
+            "thumbnail": "https://picsum.photos/id/0/300/200",
+            "description": "Dacă episodul anterior a fost dedicat reginei instrumentelor, adică viorii, cel de față este dedicat regelui… Despre ce instrument să fie vorba? Despre pian, desigur! Alături de Andreea Spînu (pianistă la Opera Comică pentru Copii), descoperim câteva detalii interesante despre pian, însă primim și câteva sfaturi dedicate celor care doresc să studieze simpaticul instrument. Pornim într-o călătorie în jurul Europei avem nevoie de un start: decolăm din înfrigurata Rusie, unde Andreea Spînu îi acompaniză pe violoniștii Vlad Popescu (Director Artistic Eufonia Festival și Pavilion) și Radu Dunca (concert-maestru al Operei Naționale București), dând voce atmosferei siberiene, acel tărâm înghețat al Rusiei.",
+            "type": "post",
+            "title": "Episod #4 - Pavilion | Călătorie muzicală pe clapele pianului:",
+            "metadata": {
+              "author_id": 0,
+              "author_name": "Autor",
+              "author_avatar": "https://picsum.photos/50",
+              "lyceum_id": 1,
+              "lyceum_name": "Liceul",
+              "date": "2020-01-08T18:52:50.637635"
+          },
+          "is_video": true,
+          "video_url": "https://www.youtube.com/embed/J3tTW7KimAE"
+      },
+      {
+            "id": 4,
+            "thumbnail": "https://picsum.photos/id/0/300/200",
+            "description": "Sorina Savii (percuționistă la Opera Națională Română Timișoara) ne ghidează, din nou, pe teritoriul inedit al percuției! Începem cu o scurtă lecție de tobe, care ne oferă câteva informații prețioase despre setul de tobe pe care cu toții l-am văzut pe scenă la concerte. Să vedem, cine știe din ce e format acest set de tobe? Apoi, trecem în revistă câteva dintre cele mai utilizate instrumente de percuție, multe dintre ele fiind folosite și în marile orchestre. Vom afla detalii interesante despre locul lor de proveniență și despre marea familie a instrumentelor de percuție. Oare cu cine se înrudește Xilofonul?",
+            "type": "post",
+            "title": "Episod #5 - Percuția și curiozițățile sale ritmate:",
+            "metadata": {
+              "author_id": 0,
+              "author_name": "Autor",
+              "author_avatar": "https://picsum.photos/50",
+              "lyceum_id": 1,
+              "lyceum_name": "Liceul",
+              "date": "2020-01-08T18:52:50.637635"
+          },
+          "is_video": true,
+          "video_url": "https://www.youtube.com/embed/QKK7XNJ3uws"
+      },
+      {
+            "id": 5,
+            "thumbnail": "https://picsum.photos/id/0/300/200",
+            "description": "În această unică incursiune în lumea muzicii, cea care încheie seria celor 6 episoade #PAVILION, ne lăsăm dirijați într-o lume de poveste! Avem plăcerea de a-i revedea pe violoniștii Vlad Popescu (Director Artistic Eufonia Festival și Pavilion) și Radu Dunca (concert-maestru al Operei Naționale București), acompaniați la pian de Andreea Spinu (pianistă la Opera Comică pentru Copii). Ne vom distra vizionând o primă oră de pian oferită de către Andreea Spânu lui Ionuț, gazda și dirijorul acestei emisiuni, și vom învăța cum trebuie să apăsăm corect clapele pianului. Un bun început pentru cei care vor să se împrietenească cu regele instrumentelor: pianul!",
+            "type": "post",
+            "title": "Episod #6 - Pavilion | Călătorie într-o lume muzicală de vis:",
+            "metadata": {
+              "author_id": 0,
+              "author_name": "Autor",
+              "author_avatar": "https://picsum.photos/50",
+              "lyceum_id": 1,
+              "lyceum_name": "Liceul",
+              "date": "2020-01-08T18:52:50.637635"
+          },
+          "is_video": true,
+          "video_url": "https://www.youtube.com/embed/RJhAu-GGttw"
+      }
+  ]
+}
