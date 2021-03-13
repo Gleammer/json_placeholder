@@ -1,106 +1,123 @@
 {
-    "items":[
-        {
-            "id": 0,
-            "thumbnail": "https://picsum.photos/id/0/300/200",
-            "description": "Călătoria noastră începe chiar în bucătărie, unde Sorina Savii (percuționistă la Opera Națională Română Timișoara) devine un Masterchef al sunetelor, transformând instrumentele de gătit în instrumente de percuție: bolul din inox devine o tobă mică, răzătoarea pentru legume devine un instrument exotic denumit Guiro, iar conserva se transformă într-un Shaker zgomotos.",
-            "type": "post",
-            "title": "Episodul #1 - O primă întâlnire cu percuția:",
-            "metadata": {
-              "author_id": 0,
-              "author_name": "Autor",
-              "author_avatar": "https://picsum.photos/50",
-              "lyceum_id": 1,
-              "lyceum_name": "Liceul",
-              "date": "2020-01-08T18:52:50.637635"
-          },
-          "is_video": true,
-          "video_url": "https://www.youtube.com/embed/gomAKophc4A"
-      },
-      {
-            "id": 1,
-            "thumbnail": "https://picsum.photos/id/0/300/200",
-            "description": "În cel de-al doilea episod #PAVILION pornim la drum cu ajutorul unui covor muzical fermecat! Sorina Savii (percuționistă la Opera Națională Română Timișoara) este ghidul care ne îndrumă pașii spre continente ce ascund sunete stranii sau de-a dreptul liniștitoare, încurajându-ne să descoperim povestea din spatele unor uimitoarea instrumente de percuție. Altfel spus, cartografiem teritorii precum Africa, Asia, America de Sud și Orientul Mijlociu cu ajutorul sunetelor!",
-            "type": "post",
-            "title": "Episodul #2 - Călătorie în lumea percuției:",
-            "metadata": {
-              "author_id": 0,
-              "author_name": "Autor",
-              "author_avatar": "https://picsum.photos/50",
-              "lyceum_id": 1,
-              "lyceum_name": "Liceul",
-              "date": "2020-01-08T18:52:50.637635"
-          },
-          "is_video": true,
-          "video_url": "https://www.youtube.com/embed/okxDqKJ3iLo"
-      },
-      {
-            "id": 2,
-            "thumbnail": "https://picsum.photos/id/0/300/200",
-            "description": "o busolă fermecată: În cadrul acestui episod, Vlad Popescu (violinist al „Furiant Quartet” și Director Artistic Eufonia Festival) transformă propria vioară într-o busolă magică pentru a ne ghida prin lumea unora dintre cei mai importanți compozitori ai lumii. Ne începem periplul chiar dintr-un mare palat situat în locul natal al compozitorului Antonio Vivaldi, Veneția! Alături de Andreea Spînu (pianistă la Opera Comică pentru Copii), Vlad va da „voce” unei lucrări din seria anotimpurilor compuse de către A. Vivaldi, pentru ca mai apoi sunetul muzicii să ne aducă acasă, în România, pe acorduri vesele… cântate la firul ierbii!",
-            "type": "post",
-            "title": "Episod #3 - Pavilion | Vioara și pianul:",
-            "metadata": {
-              "author_id": 0,
-              "author_name": "Autor",
-              "author_avatar": "https://picsum.photos/50",
-              "lyceum_id": 1,
-              "lyceum_name": "Liceul",
-              "date": "2020-01-08T18:52:50.637635"
-          },
-          "is_video": true,
-          "video_url": "https://www.youtube.com/embed/mxtJ1szP8kA"
-      },
-      {
-            "id": 3,
-            "thumbnail": "https://picsum.photos/id/0/300/200",
-            "description": "Dacă episodul anterior a fost dedicat reginei instrumentelor, adică viorii, cel de față este dedicat regelui… Despre ce instrument să fie vorba? Despre pian, desigur! Alături de Andreea Spînu (pianistă la Opera Comică pentru Copii), descoperim câteva detalii interesante despre pian, însă primim și câteva sfaturi dedicate celor care doresc să studieze simpaticul instrument. Pornim într-o călătorie în jurul Europei avem nevoie de un start: decolăm din înfrigurata Rusie, unde Andreea Spînu îi acompaniză pe violoniștii Vlad Popescu (Director Artistic Eufonia Festival și Pavilion) și Radu Dunca (concert-maestru al Operei Naționale București), dând voce atmosferei siberiene, acel tărâm înghețat al Rusiei.",
-            "type": "post",
-            "title": "Episod #4 - Pavilion | Călătorie muzicală pe clapele pianului:",
-            "metadata": {
-              "author_id": 0,
-              "author_name": "Autor",
-              "author_avatar": "https://picsum.photos/50",
-              "lyceum_id": 1,
-              "lyceum_name": "Liceul",
-              "date": "2020-01-08T18:52:50.637635"
-          },
-          "is_video": true,
-          "video_url": "https://www.youtube.com/embed/J3tTW7KimAE"
-      },
-      {
-            "id": 4,
-            "thumbnail": "https://picsum.photos/id/0/300/200",
-            "description": "Sorina Savii (percuționistă la Opera Națională Română Timișoara) ne ghidează, din nou, pe teritoriul inedit al percuției! Începem cu o scurtă lecție de tobe, care ne oferă câteva informații prețioase despre setul de tobe pe care cu toții l-am văzut pe scenă la concerte. Să vedem, cine știe din ce e format acest set de tobe? Apoi, trecem în revistă câteva dintre cele mai utilizate instrumente de percuție, multe dintre ele fiind folosite și în marile orchestre. Vom afla detalii interesante despre locul lor de proveniență și despre marea familie a instrumentelor de percuție. Oare cu cine se înrudește Xilofonul?",
-            "type": "post",
-            "title": "Episod #5 - Percuția și curiozițățile sale ritmate:",
-            "metadata": {
-              "author_id": 0,
-              "author_name": "Autor",
-              "author_avatar": "https://picsum.photos/50",
-              "lyceum_id": 1,
-              "lyceum_name": "Liceul",
-              "date": "2020-01-08T18:52:50.637635"
-          },
-          "is_video": true,
-          "video_url": "https://www.youtube.com/embed/QKK7XNJ3uws"
-      },
-      {
-            "id": 5,
-            "thumbnail": "https://picsum.photos/id/0/300/200",
-            "description": "În această unică incursiune în lumea muzicii, cea care încheie seria celor 6 episoade #PAVILION, ne lăsăm dirijați într-o lume de poveste! Avem plăcerea de a-i revedea pe violoniștii Vlad Popescu (Director Artistic Eufonia Festival și Pavilion) și Radu Dunca (concert-maestru al Operei Naționale București), acompaniați la pian de Andreea Spinu (pianistă la Opera Comică pentru Copii). Ne vom distra vizionând o primă oră de pian oferită de către Andreea Spânu lui Ionuț, gazda și dirijorul acestei emisiuni, și vom învăța cum trebuie să apăsăm corect clapele pianului. Un bun început pentru cei care vor să se împrietenească cu regele instrumentelor: pianul!",
-            "type": "post",
-            "title": "Episod #6 - Pavilion | Călătorie într-o lume muzicală de vis:",
-            "metadata": {
-              "author_id": 0,
-              "author_name": "Autor",
-              "author_avatar": "https://picsum.photos/50",
-              "lyceum_id": 1,
-              "lyceum_name": "Liceul",
-              "date": "2020-01-08T18:52:50.637635"
-          },
-          "is_video": true,
-          "video_url": "https://www.youtube.com/embed/RJhAu-GGttw"
-      }
-  ]
+	"items":[
+		{
+			"id": 0,
+			"thumbnail": "../assets/img/cover.jpg",
+			"description": "Primul episod prezentat de Lari Giorgescu, actor la Teatrul Național Bucureşti, pune în lumina reflectorului formația Cobzality și ne aduce în atenție genul muzical electro-world music. Alături de Bianca Purcărea, Robert Magheți și Florin Romașcu vom afla mai multe despre: instrumentul voce, alcătuirea unui set de tobe, dar și despre ritm sau cum te poți juca cu pianul electric, înțelegând astfel cum fiecare instrument poate aduce o notă personală oricărei melodii sau… gen muzical. Parcurgem împreună secvențe din traseul lor artistic și ne bucurăm de o scurtă lecție de istorie și folclor românesc prin reinterpretarea cântecului popular de invocare a lui Paparudă sau prin aceea a „Fetelor de la Căpâlna”. Ce înseamnă „Cobzality” și cum poți știi dacă e suficient să cânți sau dacă poate a venit timpul să-ți urmezi pasiunea sunt întrebări care primesc, de asemenea, răspunsuri la secțiunea micului interviului.<br/>Așa că orice ai crede, „muzica este bucurie”, așa cum zice Bianca Purcărea, și e nevoie doar de curaj pentru a explora acest fapt! Înainte #Cobzality.",
+			"type": "post",
+			"title": "Cobzality - Electro world music - Episodul I",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/gomAKophc4A"
+		},
+		{
+			"id": 1,
+			"thumbnail": "../assets/img/cover_event.jpg",
+			"description": "Călătoria noastră începe chiar în bucătărie, unde Sorina Savii (percuționistă la Opera Națională Română Timișoara) devine un Masterchef al sunetelor, transformând instrumentele de gătit în instrumente de percuție: bolul din inox devine o tobă mică, răzătoarea pentru legume devine un instrument exotic denumit Guiro, iar conserva se transformă într-un Shaker zgomotos.",
+			"type": "post",
+			"title": "Episodul #1 - O primă întâlnire cu percuția:",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/gomAKophc4A"
+		},
+		{
+			"id": 2,
+			"thumbnail": "../assets/img/cover_event.jpg",
+			"description": "În cel de-al doilea episod #PAVILION pornim la drum cu ajutorul unui covor muzical fermecat! Sorina Savii (percuționistă la Opera Națională Română Timișoara) este ghidul care ne îndrumă pașii spre continente ce ascund sunete stranii sau de-a dreptul liniștitoare, încurajându-ne să descoperim povestea din spatele unor uimitoarea instrumente de percuție. Altfel spus, cartografiem teritorii precum Africa, Asia, America de Sud și Orientul Mijlociu cu ajutorul sunetelor!",
+			"type": "post",
+			"title": "Episodul #2 - Călătorie în lumea percuției:",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/okxDqKJ3iLo"
+		},
+		{
+			"id": 3,
+			"thumbnail": "../assets/img/cover_event.jpg",
+			"description": "o busolă fermecată: În cadrul acestui episod, Vlad Popescu (violinist al „Furiant Quartet” și Director Artistic Eufonia Festival) transformă propria vioară într-o busolă magică pentru a ne ghida prin lumea unora dintre cei mai importanți compozitori ai lumii. Ne începem periplul chiar dintr-un mare palat situat în locul natal al compozitorului Antonio Vivaldi, Veneția! Alături de Andreea Spînu (pianistă la Opera Comică pentru Copii), Vlad va da „voce” unei lucrări din seria anotimpurilor compuse de către A. Vivaldi, pentru ca mai apoi sunetul muzicii să ne aducă acasă, în România, pe acorduri vesele… cântate la firul ierbii!",
+			"type": "post",
+			"title": "Episod #3 - Pavilion | Vioara și pianul:",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/mxtJ1szP8kA"
+		},
+		{
+			"id": 4,
+			"thumbnail": "../assets/img/cover_event.jpg",
+			"description": "Dacă episodul anterior a fost dedicat reginei instrumentelor, adică viorii, cel de față este dedicat regelui… Despre ce instrument să fie vorba? Despre pian, desigur! Alături de Andreea Spînu (pianistă la Opera Comică pentru Copii), descoperim câteva detalii interesante despre pian, însă primim și câteva sfaturi dedicate celor care doresc să studieze simpaticul instrument. Pornim într-o călătorie în jurul Europei avem nevoie de un start: decolăm din înfrigurata Rusie, unde Andreea Spînu îi acompaniză pe violoniștii Vlad Popescu (Director Artistic Eufonia Festival și Pavilion) și Radu Dunca (concert-maestru al Operei Naționale București), dând voce atmosferei siberiene, acel tărâm înghețat al Rusiei.",
+			"type": "post",
+			"title": "Episod #4 - Pavilion | Călătorie muzicală pe clapele pianului:",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/J3tTW7KimAE"
+		},
+		{
+			"id": 5,
+			"thumbnail": "../assets/img/cover_event.jpg",
+			"description": "Sorina Savii (percuționistă la Opera Națională Română Timișoara) ne ghidează, din nou, pe teritoriul inedit al percuției! Începem cu o scurtă lecție de tobe, care ne oferă câteva informații prețioase despre setul de tobe pe care cu toții l-am văzut pe scenă la concerte. Să vedem, cine știe din ce e format acest set de tobe? Apoi, trecem în revistă câteva dintre cele mai utilizate instrumente de percuție, multe dintre ele fiind folosite și în marile orchestre. Vom afla detalii interesante despre locul lor de proveniență și despre marea familie a instrumentelor de percuție. Oare cu cine se înrudește Xilofonul?",
+			"type": "post",
+			"title": "Episod #5 - Percuția și curiozițățile sale ritmate:",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/QKK7XNJ3uws"
+		},
+		{
+			"id": 6,
+			"thumbnail": "../assets/img/cover_event.jpg",
+			"description": "În această unică incursiune în lumea muzicii, cea care încheie seria celor 6 episoade #PAVILION, ne lăsăm dirijați într-o lume de poveste! Avem plăcerea de a-i revedea pe violoniștii Vlad Popescu (Director Artistic Eufonia Festival și Pavilion) și Radu Dunca (concert-maestru al Operei Naționale București), acompaniați la pian de Andreea Spinu (pianistă la Opera Comică pentru Copii). Ne vom distra vizionând o primă oră de pian oferită de către Andreea Spânu lui Ionuț, gazda și dirijorul acestei emisiuni, și vom învăța cum trebuie să apăsăm corect clapele pianului. Un bun început pentru cei care vor să se împrietenească cu regele instrumentelor: pianul!",
+			"type": "post",
+			"title": "Episod #6 - Pavilion | Călătorie într-o lume muzicală de vis:",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Autor",
+				"author_avatar": "https://picsum.photos/50",
+				"lyceum_id": 1,
+				"lyceum_name": "Liceul",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/RJhAu-GGttw"
+		}
+	]
 }
