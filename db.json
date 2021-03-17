@@ -16,6 +16,24 @@
 			},
 			"series": "Pavilion 2021",
 			"is_video": true,
+			"video_url": "https://www.youtube.com/embed/OKOA_jnTAX0"
+		},
+		{
+			"id": 7,
+			"thumbnail": "cover.jpg",
+			"description": "În episodul 2 ne întâlnim cu folclorul autentic românesc și descoperim lumea naiului, a contrabasului și a chitarei, ghidați de Mădălin Luca, Radoie Panici și Remus Vălungan. Și cum la noi în Pavilion practica și teoria se îmbină cu măiestrie, aflăm în acest episod și despre atestarea istorică a celui mai vechi nai, înaintea erei noastre în Grecia Antică, dar și despre sonoritățile sale datorate numărului diferit de tuburi. Nu ne rămâne străin nici termenul de „vibrato”, ba chiar în minutul teoriei muzicale Mădălin Luca ne arată cât de frumos poate suna folclorul românesc! Rămâne să descoperiți și cât de bine poate suna atunci când acestuia i se adaugă elemente din muzica electronică în proiectul de suflet al lui Mădălin Luca, Folklortronik, prin care reușește să ajungă și la inimile celor mai tineri. Și, nu uitați! Fiți creativi, jucați-vă și încercați să cântați la nai, ajutați de...sticle de apă!",
+			"type": "post",
+			"title": "#2 - Mădălin Luca - Folclor autentic",
+			"metadata": {
+				"author_id": 0,
+				"author_name": "Tribul Artistic",
+				"author_avatar": "TribArtistic.png",
+				"lyceum_id": 1,
+				"lyceum_name": "Timișoara",
+				"date": "2020-01-08T18:52:50.637635"
+			},
+			"series": "Pavilion 2021",
+			"is_video": true,
 			"video_url": "https://www.youtube.com/embed/PdIq40yOss8"
 		},
 		{
@@ -23,7 +41,7 @@
 			"thumbnail": "cover_event.jpg",
 			"description": "Călătoria noastră începe chiar în bucătărie, unde Sorina Savii (percuționistă la Opera Națională Română Timișoara) devine un Masterchef al sunetelor, transformând instrumentele de gătit în instrumente de percuție: bolul din inox devine o tobă mică, răzătoarea pentru legume devine un instrument exotic denumit Guiro, iar conserva se transformă într-un Shaker zgomotos.",
 			"type": "post",
-			"title": "#1 - O primă întâlnire cu percuția:",
+			"title": "#1 - O primă întâlnire cu percuția",
 			"metadata": {
 				"author_id": 0,
 				"author_name": "Tribul Artistic",
